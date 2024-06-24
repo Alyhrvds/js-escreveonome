@@ -1,6 +1,6 @@
 //tudo que quiser fazer só uma vez
 function setup() {
-    createCanvas(1000, 300);
+    createCanvas(1000, 700);
     background("purple");
   }
   
